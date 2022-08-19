@@ -1,8 +1,8 @@
 const base={
     host:'http://iwenwiki.com',
     bannerUrl:'/api/blueberrypai/getIndexBanner.php',
-    //baseHost:'http://localhost:7878',
-    baseHost:'https://myserver-two.vercel.app:7878',
+    baseHost:'http://192.168.43.150:3000',
+    //baseHost:'https://myserver-two.vercel.app',
     loginUrl:'/login',
     aboutUrl:'/getuser',
     lanmei:'/api/blueberrypai/getBlueBerryJamInfo.php',
